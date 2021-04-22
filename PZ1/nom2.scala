@@ -1,4 +1,4 @@
-object nom2 extends App {
+object nom2 {
     
   def penultimate[A](ls: List[A]): A =
       if (ls.isEmpty) throw new NoSuchElementException
