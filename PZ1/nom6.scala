@@ -1,4 +1,4 @@
-object nom6 extends App {
+object nom6 {
   
   def isPalindrome[A](ls:List[A]): Boolean = ls == ls.reverse
   
