@@ -5,9 +5,9 @@ object hw11 {
          } yield i
   }
 
-  def main(args: Array[String]): Unit = {
-    print(div(3,21))
+//   def main(args: Array[String]): Unit = {
+//     print(div(3,21))
 
-  }
+//   }
 
 }
