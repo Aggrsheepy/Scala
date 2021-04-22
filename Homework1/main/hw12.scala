@@ -11,8 +11,8 @@ object hw12 {
   }
 
 
-  def main(args: Array[String]): Unit = {
-    print(sumOfDivBy3Or(3,9))
+//   def main(args: Array[String]): Unit = {
+//     print(sumOfDivBy3Or(3,9))
 
-  }
+//   }
 }
