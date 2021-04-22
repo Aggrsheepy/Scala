@@ -1,4 +1,4 @@
-object pz1n1 extends App {
+object nom1 extends App {
 
   def lastBuiltin[A](ls: List[A]): A = ls.last
 
