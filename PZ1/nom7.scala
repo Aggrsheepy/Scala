@@ -1,4 +1,4 @@
-object nom7 extends App {
+object nom7 {
   
   def flatten(ls: List[Any]): List[Any] = ls flatMap {
     case ms: List[_] => flatten(ms)
