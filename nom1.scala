@@ -6,3 +6,5 @@ object pz1n1 extends App {
     print (lastBuiltin(List(1,1,2,3,5,6)))
   }
 }
+
+// выводит последний элемент списка 
