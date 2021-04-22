@@ -1,4 +1,4 @@
-object nom4 extends App {
+object nom4 {
    
   def length[A](ls: List[A]): Int = ls.length
   
