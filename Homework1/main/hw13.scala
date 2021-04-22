@@ -9,8 +9,8 @@ object hw13 {
 
   }
 
-  def main(args: Array[String]): Unit = {
-    print(primeFactor(132))
+//   def main(args: Array[String]): Unit = {
+//     print(primeFactor(132))
 
-  }
+//   }
 }
