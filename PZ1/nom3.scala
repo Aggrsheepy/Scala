@@ -1,4 +1,4 @@
-object nom3 extends App {
+object nom3 {
 
   def nth[A](n: Int, ls: List[A]): A =
       if (n >= 0) ls(n)
